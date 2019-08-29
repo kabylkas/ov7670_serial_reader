@@ -1,5 +1,5 @@
 ## ov7670_serial_reader
-Playing around with arduino and ov7670 camera. This is the script to receive a picture from the arduino to the host computer through serial.
+Playing around with arduino and ov7670 camera. This is the script to receive a picture from the arduino to the host computer through serial. Most of the people use java app. Don't like java, decided to do this in python.
 
 Tweak the baudrate and serial port. Then, just run `python capture_one_shot.py`
 
